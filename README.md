@@ -1,5 +1,5 @@
 # NOVAction23 Dataset
-Here we present NOVAction23 dataset, which is generated using NOVAction23 Engine.
+Here we present NOVAction23 dataset, which is generated using NOVAction Engine.
  
 ## File Structure:
 1. NOVAction23.zip : Includes all of our generated videos.
