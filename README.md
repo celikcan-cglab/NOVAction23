@@ -24,6 +24,9 @@ Gender:  1 male 2 female
  
 ## Download Links :
 NOVAction23.zip : https://drive.google.com/file/d/1TkHZL2KTv17ZHSbyqla013Z8zO1QvxXX/view
+
 NOVA2DPose.zip : https://drive.google.com/file/d/1TuABR_0lVcOBLPAufwM1BmDX-XMohv9G/view
+
 labels.xlsx : https://docs.google.com/spreadsheets/d/1TuMdY5ZdY3USiJLTc6XhnUtQb1U482R8/view
+
 videoyoutube.xlsx : https://docs.google.com/spreadsheets/d/1Tj2fKKHTRL6mRz7ACR0JeaqxA0tM8WYs/view
